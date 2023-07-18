@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    install_requires=['pandas'],
+    install_requires=['numpy','pandas','scipy'],
 
     name='quant_fin',
     version=0.1,
